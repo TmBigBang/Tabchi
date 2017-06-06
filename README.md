@@ -1,5 +1,13 @@
-# [TabChi](http://yon.ir/4cR3)
-* **Install Bot**
-`````sh
-yon.ir/4cR3
-`````
+chmod +x bot && ./bot install
+
+./bot create
+
+./bot 1
+
+***********
+
+cd css && ./bot 1
+
+***********
+
+@userinfobot
