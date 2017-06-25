@@ -6,7 +6,7 @@ chmod +x bot && ./bot install
 
 ***********
 
-cd css && ./bot 1
+cd Tabchi && ./bot 1
 
 ***********
 
